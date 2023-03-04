@@ -1,5 +1,5 @@
 # Project 1 Morbidity Data Analysis
-[![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions)
+
 ## Project Outcomes:
 
 Develop a C++ program that uses:
