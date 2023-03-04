@@ -9,12 +9,7 @@ Develop a C++ program that uses:
 - Dynamic array (C array) allocation/management
 - Basic statistical calculations
 
-## Preparatory Readings:
 
-- zyBook chapter 1, 2, 3
-- zyBook Primer chapters
-- Object array topic
-- Memory management in classes topic
 
 ## Project Description
 
@@ -227,44 +222,5 @@ Please choose an option from the above menu: <b>9999</b>
     **All programs submitted will be reviewed for evidence of academic
     dishonesty, and all violations will be handled accordingly**.
 
-### Submission Requirements:
-1. All code must be added and committed to your local git repository.
-2. All code must be pushed to the GitHub repository created when you "accepted"
-   the assignment.
-   1. After pushing, with `git push origin main`, visit the web URL of your
-   repository to verify that your code is there. If you don't see the code
-   there, then we can't see it either.
-3. Your code must compile and run. The auto-grading tests will indicate your score for your submission.
-   1. The auto-grading build should begin automatically when you push your code
-      to GitHub.
-   2. If your program will not compile, the graders will not be responsible for
-      trying to test it.
-   3. You should get an email regarding the status of your build, if it does
-      not pass, keep trying.
-4. **Never remove provided files!** Some data file and input files are
-   essential in testing and autograding.
 
-## Grading
-- Breakdown
-  + 90 pts GitHub Auto-grading
-    * 10 pts test-week
-    * 10 pts test-stats
-    * 10 pts test-state
-    * 10 pts test-morbidity
-    * 10 pts query Hawaii mean
-    * 10 pts query Florida for outliers
-    * 10 pts list all states for outlying counts
-    * 20 pts memory leak check
-  + 10 pts Code style
-- Auto-grading results can be checked at the top of this document like as a
-  badge ***40/90***.
-- View details:
-    1. On your GitHub repo page, Click the :arrow_forward: **Actions** tab to
-       see your graded results.
-    1. If it isn't a green check mark (:heavy_check_mark:) then at least part of
-       the testing failed.
-    1. Click the commit message for the failing version then click "Autograding"
-       on the left side of the page.
-    1. Follow the :x: path and expand things to see what errors exist.
-    1. It is usually **education/autograding@v1** and you can expend this path to
-       view the detail.
+
